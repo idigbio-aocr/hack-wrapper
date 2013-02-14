@@ -1,0 +1,22 @@
+{
+  "name": "hack-wrapper",
+  "description": "REST-ful wrapper for command line utilities",
+  "version": "0.1.0",
+  "author": "Alex Thompson <godfoder@acis.ufl.edu>",
+  "contributors": [ 
+    { "name": "Alex Thompson", "email": "godfoder@acis.ufl.edu" }
+  ],
+  "dependencies": {
+    "restify": "*",
+    "filed": "*",
+    "mime": "*",
+    "sprintf": "*"
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+  ],
+  "repository": "git://github.com/idigbio-aocr/hack-wrapper",
+  "main": "api",
+  "engines": { "node": "*" }
+}
